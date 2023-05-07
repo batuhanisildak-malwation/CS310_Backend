@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "com.fitplanner.accessTokenExpirationMinutes",
+    "type": "java.lang.String",
+    "description": "Access token expiration time in minutes"
+  },
+  {
+    "name": "com.fitplanner.refreshTokenExpirationDays",
+    "type": "java.lang.String",
+    "description": "Refresh token expiration time in days"
+  },
+  {
+    "name": "com.fitplanner.refreshTokenSecret",
+    "type": "java.lang.String",
+    "description": "Refresh token secret in string"
+  },
+  {
+    "name": "com.fitplanner.accessTokenSecret",
+    "type": "java.lang.String",
+    "description": "Access token secret in string"
+  }
+]}
